@@ -1,6 +1,5 @@
 
 
-
 public class KnightsTour{
 	
 	//initializing the 8x8 board
