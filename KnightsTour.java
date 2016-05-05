@@ -107,8 +107,7 @@ public class KnightsTour{
 	        chessPiece.implementTheTour();
 	    }
 	}
-     //The program will run in about 15 seconds or so
-	
+    
 	
 
 
