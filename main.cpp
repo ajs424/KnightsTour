@@ -1,6 +1,3 @@
-//Aalap Shastri
-//CS280
-//31382098
 
 #include<iostream>
 #define rows 8
